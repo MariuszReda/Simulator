@@ -1,0 +1,16 @@
+{
+  "Receivers": [
+    {
+      "ID": 1,
+      "Name": "Test1",
+      "IsActive": true,
+      "SensorIDs": [ 1, 2 ]
+    },
+    {
+      "ID": 2,
+      "Name": "Test2",
+      "IsActive": false,
+      "SensorIDs": [ 2, 3 ]
+    }
+  ]
+}
